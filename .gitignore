@@ -124,3 +124,6 @@ Thumbs.db
 
 # pytest
 .pytest_cache
+
+# weights
+fastai/weights.tgz
